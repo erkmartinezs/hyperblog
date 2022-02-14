@@ -1,0 +1,3 @@
+Este es un archivo de prueba.
+
+Este archivo fue creado con el fin de ser insumo para el curso de git y GitHub
